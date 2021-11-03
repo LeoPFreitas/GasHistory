@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "985463869764",
+    "project_id": "gashistoryfirebase-6b424",
+    "storage_bucket": "gashistoryfirebase-6b424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985463869764:android:fc68a8c6b37980f9224711",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.scl.ads.gashistory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985463869764-4pqec8o4q3bgd1n1s65q94rd9pj65dgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsp.scl.ads.gashistory",
+            "certificate_hash": "7e06a4c5fde1d054e8b684a6f65155c8e262ae9f"
+          }
+        },
+        {
+          "client_id": "985463869764-jgnchrost0jq182o4rgpif6dm6ajocdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyassblzrenrXPncD-Eo8prdIE2HHMmjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985463869764-jgnchrost0jq182o4rgpif6dm6ajocdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
